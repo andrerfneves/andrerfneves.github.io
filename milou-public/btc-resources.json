@@ -1,0 +1,197 @@
+{
+	"wallets": [
+        {
+			"title": "ZEBEDEE",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/zbd.png",
+			"url": "https://apps.apple.com/us/app/zebedee-wallet/id1484394401",
+			"buttonText": "Download",
+			"tags": [
+				"Custodial",
+				"LN Address",
+				"LNURL",
+				"OAuth2",
+				"Beginner",
+				"Gaming"
+			]
+		},
+		{
+			"title": "OBW",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/obw.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		},
+		{
+			"title": "Cash App",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/cashapp.png",
+			"url": "https://cash.app",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		}
+	],
+	"tools": [{
+			"title": "Tweetoshi",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/tweetoshi.png",
+			"url": "https://zebedee.io/app",
+			"buttonText": "Download",
+			"tags": [
+				"Custodial",
+				"LN Address",
+				"LNURL",
+				"OAuth2",
+				"Beginner",
+				"Gaming"
+			]
+		},
+		{
+			"title": "Fountain",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/fountain.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		},
+		{
+			"title": "Slice",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/slice.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		},
+		{
+			"title": "Moon",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/moon.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		},
+		{
+			"title": "CardCoins",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/cardcoins.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		},
+		{
+			"title": "Bitrefill",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/bitrefill.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		}
+	],
+	"education": [{
+			"title": "NOAH Blog",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/noah.png",
+			"url": "https://blog.noah.com",
+			"buttonText": "Visit",
+			"tags": [
+				"Custodial",
+				"LN Address",
+				"LNURL",
+				"OAuth2",
+				"Beginner",
+				"Gaming"
+			]
+		},
+		{
+			"title": "Stacker News",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Open",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		}
+	],
+	"conferences": [{
+			"title": "TABConf",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/tabconf.png",
+			"url": "https://zebedee.io/app",
+			"buttonText": "Download",
+			"tags": [
+				"Custodial",
+				"LN Address",
+				"LNURL",
+				"OAuth2",
+				"Beginner",
+				"Gaming"
+			]
+		},
+		{
+			"title": "Bitcoin 2023",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/bitcoin2023.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		},
+		{
+			"title": "Bitcoin++",
+			"description": "Beginner-friendly custodial lightning wallet.",
+			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"LN Address",
+				"LNURL",
+				"Expert"
+			]
+		}
+	]
+}
