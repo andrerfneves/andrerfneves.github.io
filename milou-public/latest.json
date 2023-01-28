@@ -1,6 +1,6 @@
 {
 	"latest": [{
-			"title": "Pay to Relay is here!",
+			"title": "Pay to Nostr Relay is here!",
 			"emoji": [
 				"money_with_wings",
 				"arrow_right",
@@ -12,39 +12,39 @@
 			"style": "secondary"
 		},
 		{
-			"title": "2222Set up a nostr realy in under 5 minutes",
+			"title": "Nostrica 2023 Conference in Costa Rica",
 			"emoji": [
 				"fire",
 				"fire",
 				"fire",
 				"fire"
 			],
-			"url": "https://google.com",
-			"timestamp": "2023-01-28T05:51:32Z",
+			"url": "https://nostrica.com",
+			"timestamp": "2023-01-27T06:18:08Z",
 			"style": "primary"
 		},
 		{
-			"title": "3333Set up a nostr realy in under 5 minutes",
+			"title": "Milou website is live!",
 			"emoji": [
-				"fire",
-				"fire",
-				"fire",
-				"fire"
+				"rocket",
+				"rocket",
+				"rocket",
+				"rocket"
 			],
-			"url": "https://google.com",
-			"timestamp": "2023-01-28T05:51:32Z",
+			"url": "https://milou.lol",
+			"timestamp": "2023-01-27T12:18:08Z",
 			"style": "tertiary"
 		},
 		{
-			"title": "44444Set up a nostr realy in under 5 minutes",
+			"title": "PubkeyNYC Bar now accepts BTC LN!",
 			"emoji": [
-				"fire",
-				"fire",
-				"fire",
-				"fire"
+				"beer",
+				"zap",
+				"beer",
+				"zap"
 			],
-			"url": "https://google.com",
-			"timestamp": "2023-01-28T05:51:32Z",
+			"url": "https://twitter.com/PubKey_NYC/status/1619033489114021888",
+			"timestamp": "2023-01-26T12:18:08Z",
 			"style": "secondary"
 		}
 	]
