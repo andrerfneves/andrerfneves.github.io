@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Damus",
+        "description": "Nostr client for iOS featuring friendly and modern UX flows.",
+        "image": "https://cdn.zebedee.io/an/m/damus.png",
+        "url": "https://testflight.apple.com/join/CLwjLxWl",
+        "buttonText": "Download",
+        "tags": [
+            "Beginner",
+            "iOS",
+            "BTC Tips",
+            "Profiles",
+            "Friendly UX",
+            "Popular"
+        ]
+    },
+    {
+        "title": "Snort Social",
+        "description": "Web-based Nostr client with dark mode and friendly UX flows.",
+        "image": "https://cdn.zebedee.io/an/m/snort.png",
+        "url": "https://snort.social",
+        "buttonText": "Open",
+        "tags": [
+            "Web",
+            "Profiles",
+            "Friendly UX"
+        ]
+    },
+    {
+        "title": "Iris",
+        "description": "Web-based Nostr client for beginners.",
+        "image": "https://cdn.zebedee.io/an/m/iris.png",
+        "url": "https://iris.to",
+        "buttonText": "Open",
+        "tags": [
+            "Web",
+            "Responsive UI",
+            "Friendly UX"
+        ]
+    },
+    {
+        "title": "Coracle",
+        "description": "Intermediate-level Web-based Nostr client",
+        "image": "https://cdn.zebedee.io/an/m/coracle.png",
+        "url": "https://coracle.social",
+        "buttonText": "Open",
+        "tags": [
+            "Web",
+            "Responsive UI",
+            "Good UX",
+            "Customizable",
+            "Intermediate"
+        ]
+    },
+    {
+        "title": "Nostr Console",
+        "description": "CLI-based Nostr client for your command line.",
+        "image": "https://cdn.zebedee.io/an/m/nostr-console.png",
+        "url": "https://github.com/vishalxl/nostr_console",
+        "buttonText": "Open",
+        "tags": [
+            "Command Line",
+            "Technical",
+            "Advanced",
+            "Fully Featured"
+        ]
+    },
+    {
+        "title": "Blockcore Notes",
+        "description": "Simple Web-based Nostr client.",
+        "image": "https://cdn.zebedee.io/an/m/blockcore.png",
+        "url": "http://notes.blockcore.net/",
+        "buttonText": "Download",
+        "tags": [
+            "Intermediate",
+            "Experimental"
+        ]
+    }
+]
