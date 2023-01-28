@@ -1,5 +1,8 @@
 {
 	"wallets": [
+		{
+			"description": "The simplest open protocol that is able to create a censorship-resistant global \"social\" network once and for all.\n"
+		},
         {
 			"title": "ZEBEDEE",
 			"description": "Beginner-friendly custodial lightning wallet.",
@@ -42,7 +45,11 @@
 			]
 		}
 	],
-	"tools": [{
+	"tools": [
+		{
+			"description": "The simplest open protocol that is able to create a censorship-resistant global \"social\" network once and for all.\n"
+		},
+		{
 			"title": "Tweetoshi",
 			"description": "Beginner-friendly custodial lightning wallet.",
 			"image": "https://cdn.zebedee.io/an/m/tweetoshi.png",
@@ -123,7 +130,11 @@
 			]
 		}
 	],
-	"education": [{
+	"education": [
+		{
+			"description": "The simplest open protocol that is able to create a censorship-resistant global \"social\" network once and for all.\n"
+		},
+		{
 			"title": "NOAH Blog",
 			"description": "Beginner-friendly custodial lightning wallet.",
 			"image": "https://cdn.zebedee.io/an/m/noah.png",
@@ -152,7 +163,11 @@
 			]
 		}
 	],
-	"conferences": [{
+	"conferences": [
+		{
+			"description": "The simplest open protocol that is able to create a censorship-resistant global \"social\" network once and for all.\n"
+		},
+		{
 			"title": "TABConf",
 			"description": "Beginner-friendly custodial lightning wallet.",
 			"image": "https://cdn.zebedee.io/an/m/tabconf.png",
