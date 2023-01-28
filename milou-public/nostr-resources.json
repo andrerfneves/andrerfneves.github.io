@@ -11,11 +11,6 @@
 			"title": "NIPs",
 			"description": "Nostr Implementation Possibilities.",
 			"url": "https://github.com/nostr-protocol/nips#readme"
-		},
-		{
-			"title": "André likes my pussy",
-			"description": "The \"What's\" and the \"Why's\" of Nostr by its creator @fiatjaf.",
-			"url": "https://github.com/nostr-protocol/nostr#readme"
 		}
 	],
 	"guides": [{
