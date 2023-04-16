@@ -5,43 +5,62 @@
 		},
         {
 			"title": "ZEBEDEE",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"description": "Your lightning wallet everywhere.",
 			"image": "https://cdn.zebedee.io/an/m/zbd.png",
 			"url": "https://apps.apple.com/us/app/zebedee-wallet/id1484394401",
 			"buttonText": "Download",
 			"tags": [
 				"Custodial",
 				"LN Address",
-				"LNURL",
-				"OAuth2",
+				"Play2Earn",
+				"Browser Ext.",
+				"Android",
+				"iOS",
 				"Beginner",
-				"Gaming"
+				"Sleek UI"
 			]
 		},
 		{
 			"title": "OBW",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"description": "NBD’s very slick noncustodial wallet.",
 			"image": "https://cdn.zebedee.io/an/m/obw.png",
 			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
 			"buttonText": "Download",
 			"tags": [
 				"Non-Custodial",
 				"LN Address",
-				"LNURL",
+				"Onchain",
+				"Android",
 				"Expert"
+			]
+		},
+		{
+			"title": "Breez",
+			"description": "The noncustodial wallet for everyone.",
+			"image": "https://cdn.zebedee.io/an/m/obw.png",
+			"url": "https://breez.technology/",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"PointOfSale",
+				"Podcasts",
+				"Intermediate"
 			]
 		},
 		{
 			"title": "Cash App",
 			"description": "Beginner-friendly custodial lightning wallet.",
 			"image": "https://cdn.zebedee.io/an/m/cashapp.png",
-			"url": "https://cash.app",
+			"url": "https://cash.app/app/QVNBFMP",
 			"buttonText": "Download",
 			"tags": [
-				"Non-Custodial",
-				"LN Address",
+				"Custodial",
+				"Sleek UI",
 				"LNURL",
-				"Expert"
+				"Onchain",
+				"Buy&Sell",
+				"US Only",
+				"Beginner"
 			]
 		}
 	],
@@ -51,23 +70,25 @@
 		},
 		{
 			"title": "Fountain",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"description": "The Podcast app that pays you BTC.",
 			"image": "https://cdn.zebedee.io/an/m/fountain.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"url": "https://apps.apple.com/gb/app/fountain-podcasts/id1576394424",
 			"buttonText": "Download",
 			"tags": [
-				"Non-Custodial",
-				"LN Address",
-				"LNURL",
-				"Expert"
+				"Podcasts",
+				"Earn",
+				"Tip",
+				"Beginner",
+				"Sleek UI",
+				"LN Address"
 			]
 		},
 		{
 			"title": "Slice",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"description": "Earn Bitcoin for browsing.",
 			"image": "https://cdn.zebedee.io/an/m/slice.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
-			"buttonText": "Download",
+			"url": "http://slice.it/w",
+			"buttonText": "Website",
 			"tags": [
 				"Non-Custodial",
 				"LN Address",
@@ -77,15 +98,15 @@
 		},
 		{
 			"title": "CardCoins",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"description": "Buy Bitcoin with Cash.",
 			"image": "https://cdn.zebedee.io/an/m/cardcoins.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
-			"buttonText": "Download",
+			"url": "https://www.cardcoins.co/",
+			"buttonText": "Website",
 			"tags": [
-				"Non-Custodial",
-				"LN Address",
-				"LNURL",
-				"Expert"
+				"Cash Onramp",
+				"US Only",
+				"Onchain",
+				"Gift Cards"
 			]
 		},
 		{
@@ -104,7 +125,7 @@
 		},
 		{
 			"title": "Bitrefill",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"description": "Buy gift cards and phone top ups over lightning.",
 			"image": "https://cdn.zebedee.io/an/m/bitrefill.png",
 			"url": "https://www.bitrefill.com/signup?code=ej62wyiu",
 			"buttonText": "Download",
