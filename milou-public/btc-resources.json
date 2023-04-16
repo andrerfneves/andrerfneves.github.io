@@ -1,7 +1,7 @@
 {
 	"wallets": [
 		{
-			"description": "We’re picky when it comes to wallets and you should be too. Whether you’re a n00b or a hardcore bitcoiner, we’ve got you covered with our favorite custodial and noncustodial wallets. One thing’s for sure, these wallets are all lightning-friendly ⚡️"
+			"description": "We're picky when it comes to wallets and you should be too. Whether you’re a n00b or a hardcore bitcoiner, we’ve got you covered with our favorite custodial and noncustodial wallets. One thing’s for sure, these wallets are all lightning-friendly ⚡️"
 		},
         {
 			"title": "ZEBEDEE",
@@ -101,6 +101,7 @@
 				"LN Address",
 				"Intermediate"
 			]
+		},
 		{
 			"title": "Bitrefill",
 			"description": "Beginner-friendly custodial lightning wallet.",
@@ -114,6 +115,7 @@
 				"Bill Payments"
 			]
 		}
+	],
 	"education": [
 		{
 			"description": "Our favorite learning resoures for n00bs and devs alike."
@@ -205,9 +207,9 @@
 			"tags": [
 				"Intermediate",
 				"IRL",
-				"Brazil",	
+				"Brazil"	
 			]
-		},
+		}
 	],
 	"Games": [
 		{
@@ -235,7 +237,8 @@
 			"tags": [
 				"Android",
 				"iOS",
-				"LN Address"			]
+				"LN Address"
+			]
 		},
 		{
 			"title": "Sarutobi",
@@ -273,4 +276,5 @@
 				"LN Address"	
 			]
 		}
-	],
+	]
+}
