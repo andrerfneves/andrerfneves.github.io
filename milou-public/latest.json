@@ -1,15 +1,15 @@
 {
 	"latest": [{
-			"title": "Milou's Pay-to-Nostr Relay is here!",
+			"title": "Check out Milou's new SHOP!",
 			"emoji": [
-				"money_with_wings",
-				"arrow_right",
-				"repeat",
+				"rocket",
+				"rocket",
+				"rocket",
 				"rocket"
 			],
-			"url": "https://snort.social/e/note1djc2gs07h5uujp6e2fvazrzqxdker44ys9rnsd56zw85k88ypresrykqc3",
-			"timestamp": "2023-01-28T20:18:45Z",
-			"style": "secondary"
+			"url": "https://shop.milou.lol/",
+			"timestamp": "2023-04-15T10:18:45Z",
+			"style": "primary"
 		},
 		{
 			"title": "Nostrica 2023 Conference in CR",
@@ -21,7 +21,7 @@
 			],
 			"url": "https://nostrica.com",
 			"timestamp": "2023-01-27T06:18:08Z",
-			"style": "primary"
+			"style": "secondary"
 		},
 		{
 			"title": "Milou Labs website is now live!",
