@@ -47,22 +47,7 @@
 	],
 	"tools": [
 		{
-			"description": "The simplest open protocol that is able to create a censorship-resistant global \"social\" network once and for all.\n"
-		},
-		{
-			"title": "Tweetoshi",
-			"description": "Beginner-friendly custodial lightning wallet.",
-			"image": "https://cdn.zebedee.io/an/m/tweetoshi.png",
-			"url": "https://zebedee.io/app",
-			"buttonText": "Download",
-			"tags": [
-				"Custodial",
-				"LN Address",
-				"LNURL",
-				"OAuth2",
-				"Beginner",
-				"Gaming"
-			]
+			"description": "What can you do with Bitcoin? Apparently a lot."
 		},
 		{
 			"title": "Fountain",
@@ -91,19 +76,6 @@
 			]
 		},
 		{
-			"title": "Moon",
-			"description": "Beginner-friendly custodial lightning wallet.",
-			"image": "https://cdn.zebedee.io/an/m/moon.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
-			"buttonText": "Download",
-			"tags": [
-				"Non-Custodial",
-				"LN Address",
-				"LNURL",
-				"Expert"
-			]
-		},
-		{
 			"title": "CardCoins",
 			"description": "Beginner-friendly custodial lightning wallet.",
 			"image": "https://cdn.zebedee.io/an/m/cardcoins.png",
@@ -117,96 +89,189 @@
 			]
 		},
 		{
+			"title": "Stacker News",
+			"description": "Like Reddit, but earn Bitcoin.",
+			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
+			"url": "https://stacker.news/",
+			"buttonText": "Website",
+			"tags": [
+				"Blogs",
+				"Tip",
+				"Earn",
+				"LN Address",
+				"Intermediate"
+			]
+		{
 			"title": "Bitrefill",
 			"description": "Beginner-friendly custodial lightning wallet.",
 			"image": "https://cdn.zebedee.io/an/m/bitrefill.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"url": "https://www.bitrefill.com/signup?code=ej62wyiu",
 			"buttonText": "Download",
 			"tags": [
-				"Non-Custodial",
-				"LN Address",
-				"LNURL",
-				"Expert"
+				"Gift Cards",
+				"Phone TopUps",
+				"Multicurrency",
+				"Bill Payments"
 			]
 		}
 	],
 	"education": [
 		{
-			"description": "The simplest open protocol that is able to create a censorship-resistant global \"social\" network once and for all.\n"
+			"description": "Our favorite learning resoures for n00bs and devs alike."
 		},
 		{
-			"title": "NOAH Blog",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"title": "Learn Me A Bitcoin",
+			"description": "Start here if you know nothing about Bitcoin.",
 			"image": "https://cdn.zebedee.io/an/m/noah.png",
-			"url": "https://blog.noah.com",
-			"buttonText": "Visit",
+			"url": "https://learnmeabitcoin.com/",
+			"buttonText": "Website",
 			"tags": [
-				"Custodial",
-				"LN Address",
-				"LNURL",
-				"OAuth2",
-				"Beginner",
-				"Gaming"
+				"Beginner"
 			]
 		},
 		{
-			"title": "Stacker News",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"title": "Emeralize",
+			"description": "Where Creators Earn and Where Learning is Rewarded.",
 			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
-			"buttonText": "Open",
+			"url": "https://emeralize.com/",
+			"buttonText": "Website",
 			"tags": [
-				"Non-Custodial",
-				"LN Address",
-				"LNURL",
-				"Expert"
+				"Intermediate",
+				"Learn2Earn"
+			]
+		},
+		{
+			"title": "Lightsats",
+			"description": "Onboard n00bs in 2 secs.",
+			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
+			"url": "https://lightsats.com/",
+			"buttonText": "Website",
+			"tags": [
+				"Tip",
+				"Onboard",
+				"Beginner"
+			]
+		},
+		{
+			"title": "Base58",
+			"description": "Developer-oriented Bitcoin Fundamentals Courses.",
+			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
+			"url": "https://https://www.base58.info/",
+			"buttonText": "Website",
+			"tags": [
+				"Technical",
+				"Expert",
+				"US Only",
+				"Courses"
 			]
 		}
+
 	],
 	"conferences": [
 		{
-			"description": "The simplest open protocol that is able to create a censorship-resistant global \"social\" network once and for all.\n"
+			"description": "We like signal, not noise. Here are our top picks for conferences this year."
 		},
 		{
 			"title": "TABConf",
-			"description": "Beginner-friendly custodial lightning wallet.",
+			"description": "The Technical Bitcoin Conference of the Year.",
 			"image": "https://cdn.zebedee.io/an/m/tabconf.png",
-			"url": "https://zebedee.io/app",
-			"buttonText": "Download",
+			"url": "https://2023.tabconf.com",
+			"buttonText": "Website",
 			"tags": [
-				"Custodial",
-				"LN Address",
-				"LNURL",
-				"OAuth2",
-				"Beginner",
-				"Gaming"
-			]
-		},
-		{
-			"title": "Bitcoin 2023",
-			"description": "Beginner-friendly custodial lightning wallet.",
-			"image": "https://cdn.zebedee.io/an/m/bitcoin2023.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
-			"buttonText": "Download",
-			"tags": [
-				"Non-Custodial",
-				"LN Address",
-				"LNURL",
-				"Expert"
+				"Open-Source",
+				"Technical",
+				"IRL",
+				"US Only",
+				"Intermediate"
 			]
 		},
 		{
 			"title": "Bitcoin++",
 			"description": "Beginner-friendly custodial lightning wallet.",
 			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"url": "https://btcplusplus.dev/",
+			"buttonText": "Website",
+			"tags": [
+				"Technical",
+				"IRL",
+				"Intermediate"			
+			]
+		},
+		{
+			"title": "SATS Conf",
+			"description": "The first and only Bitcoin conf in Brazil.",
+			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"url": "https://satsconf.com.br/",
+			"buttonText": "Website",
+			"tags": [
+				"Intermediate",
+				"IRL",
+				"Brazil",	
+			]
+		},
+	],
+	"Games": [
+		{
+			"description": "Play games, earn bitcoin. ‘Nuff said."
+		},
+		{
+			"title": "Bitcoin miner",
+			"description": "Brianna's favorite game. Just Download it.",
+			"image": "https://cdn.zebedee.io/an/m/tabconf.png",
+			"url": "https://apps.apple.com/us/app/bitcoin-miner-idle-tycoon/id1413770650",
 			"buttonText": "Download",
 			"tags": [
-				"Non-Custodial",
-				"LN Address",
-				"LNURL",
-				"Expert"
+				"Android",
+				"iOS",
+				"Idle",
+				"LN Address"
+			]
+		},
+		{
+			"title": "Bitcoin Bounce",
+			"description": "Bounce your Bitcoin along the Blockchain.",
+			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"url": "https://apps.apple.com/us/app/bitcoin-bounce/id1487339632",
+			"buttonText": "Download",
+			"tags": [
+				"Android",
+				"iOS",
+				"LN Address"			]
+		},
+		{
+			"title": "Sarutobi",
+			"description": "Become the Swing King",
+			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"url": "https://apps.apple.com/us/app/sarutobi-make-the-monkey-fly/id1527644721",
+			"buttonText": "Downloard",
+			"tags": [
+				"Android",
+				"iOS",
+				"LN Address"	
+			]
+		},
+		{
+			"title": "Bitcoin Bay",
+			"description": "Bitcoin F2W Bubble Shooter.",
+			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"url": "https://apps.apple.com/us/app/bitcoin-bay-bitcoin-bubbles/id1586949384",
+			"buttonText": "Downloard",
+			"tags": [
+				"Android",
+				"iOS",
+				"THNDR"	
+			]
+		},
+		{
+			"title": "Bitcoin Solitate",
+			"description": "Play Solitaire, Earn BTC.",
+			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"url": "https://apps.apple.com/us/app/bitcoin-solitaire/id1522782252",
+			"buttonText": "Downloard",
+			"tags": [
+				"Android",
+				"iOS",
+				"LN Address"	
 			]
 		}
-	]
-}
+	],
