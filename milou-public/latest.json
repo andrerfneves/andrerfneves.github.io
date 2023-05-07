@@ -8,19 +8,19 @@
 				"rocket"
 			],
 			"url": "https://shop.milou.lol/",
-			"timestamp": "2023-04-15T10:18:45Z",
+			"timestamp": "2023-05-6T18:00:00Z",
 			"style": "primary"
 		},
 		{
-			"title": "Nostrica 2023 Conference in CR",
+			"title": "TABConf 2023 is still only $121",
 			"emoji": [
-				"fire",
-				"fire",
-				"fire",
+				"money bag",
+				"laptop",
+				"zap",
 				"fire"
 			],
-			"url": "https://nostrica.com",
-			"timestamp": "2023-01-27T06:18:08Z",
+			"url": "https://2023.tabconf.com",
+			"timestamp": "2023-05-6T08:00:00Z",
 			"style": "secondary"
 		},
 		{
@@ -36,16 +36,15 @@
 			"style": "tertiary"
 		},
 		{
-			"title": "PubkeyNYC Bar now accepts BTC LN!",
+			"title": "OpenSats Receives Additional Funding of $10m",
 			"emoji": [
-				"beer",
+				"money bag",
 				"zap",
-				"beer",
+				"money bag",
 				"zap"
 			],
-			"url": "https://twitter.com/PubKey_NYC/status/1619033489114021888",
-			"timestamp": "2023-01-26T12:18:08Z",
-			"style": "secondary"
-		}
+			"url": "https://opensats.org/blog",
+			"timestamp": "2023-05-04T08:49:00Z",
+			"style": "secondary"		}
 	]
 }
