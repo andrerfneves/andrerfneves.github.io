@@ -2,7 +2,7 @@
     {
         "title": "Damus",
         "description": "Nostr client for iOS featuring friendly and modern UX flows.",
-        "image": "image": "https://andrerfneves.github.io/milou-public/img/damus.png",
+        "image": "https://andrerfneves.github.io/milou-public/img/damus.png",
         "url": "https://testflight.apple.com/join/CLwjLxWl",
         "buttonText": "Download",
         "tags": [
@@ -25,15 +25,13 @@
             "Web",
             "Super Fast",
             "Analytics",
-            "Profiles",
-            "Friendly UX",
-            "Popular"
+            "Friendly UX"
         ]
     },
     {
         "title": "Snort Social",
         "description": "Web-based Nostr client with dark mode and friendly UX flows.",
-        "image": "image": "https://andrerfneves.github.io/milou-public/img/snort.png",
+        "image": "https://andrerfneves.github.io/milou-public/img/snort.png",
         "url": "https://snort.social",
         "buttonText": "Open",
         "tags": [
@@ -45,7 +43,7 @@
     {
         "title": "Iris",
         "description": "Web-based Nostr client for beginners.",
-        "image": "image": "https://andrerfneves.github.io/milou-public/img/iris.png",
+        "image": "https://andrerfneves.github.io/milou-public/img/iris.png",
         "url": "https://iris.to",
         "buttonText": "Open",
         "tags": [
@@ -57,7 +55,7 @@
     {
         "title": "Coracle",
         "description": "Intermediate-level Web-based Nostr client",
-        "image": "image": "https://andrerfneves.github.io/milou-public/img/coracle.png",
+        "image": "https://andrerfneves.github.io/milou-public/img/coracle.png",
         "url": "https://coracle.social",
         "buttonText": "Open",
         "tags": [
@@ -71,7 +69,7 @@
     {
         "title": "Nostr Console",
         "description": "CLI-based Nostr client for your command line.",
-        "image": "image": "https://andrerfneves.github.io/milou-public/img/nostr-console.png",
+        "image": "https://andrerfneves.github.io/milou-public/img/nostr-console.png",
         "url": "https://github.com/vishalxl/nostr_console",
         "buttonText": "Open",
         "tags": [
@@ -79,17 +77,6 @@
             "Technical",
             "Advanced",
             "Fully Featured"
-        ]
-    },
-    {
-        "title": "Blockcore Notes",
-        "description": "Simple Web-based Nostr client.",
-        "image": "image": "https://andrerfneves.github.io/milou-public/img/blockcore.png",
-        "url": "http://notes.blockcore.net/",
-        "buttonText": "Download",
-        "tags": [
-            "Intermediate",
-            "Experimental"
         ]
     }
 ]
