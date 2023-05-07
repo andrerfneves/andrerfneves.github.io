@@ -4,27 +4,53 @@
 			"description": "We're picky when it comes to wallets and you should be too. Whether you’re a n00b or a hardcore bitcoiner, we’ve got you covered with our favorite custodial and noncustodial wallets. One thing’s for sure, these wallets are all lightning-friendly ⚡️"
 		},
         {
-			"title": "ZEBEDEE",
-			"description": "Your lightning wallet everywhere.",
+			"title": "ZBD",
+			"description": "Play. Earn. Shop. All in one Bitcoin Lightning wallet for iOS and Android.",
 			"image": "https://andrerfneves.github.io/milou-public/img/zbd.png",
 			"url": "https://apps.apple.com/us/app/zebedee-wallet/id1484394401",
-			"buttonText": "Download",
+			"buttonText": "Download ZBD",
 			"tags": [
 				"Custodial",
 				"LN Address",
 				"Play2Earn",
 				"Browser Ext.",
-				"Android",
-				"iOS",
 				"Beginner",
 				"Sleek UI"
 			]
 		},
 		{
+			"title": "Breez",
+			"description": "The noncustodial mobile Bitcoin Lightning wallet for everyone.",
+			"image": "https://andrerfneves.github.io/milou-public/img/breez.png",
+			"url": "https://breez.technology/",
+			"buttonText": "Download",
+			"tags": [
+				"Non-Custodial",
+				"Point Of Sale",
+				"Sleek UI",
+				"Podcasts",
+				"Intermediate"
+			]
+		},
+		{
+			"title": "Cash App",
+			"description": "US-only Bitcoin and Lightning wallet with fiat capabilities.",
+			"image": "https://andrerfneves.github.io/milou-public/img/cashapp.png",
+			"url": "https://cash.app/app/QVNBFMP",
+			"buttonText": "Download",
+			"tags": [
+				"Custodial",
+				"Onchain",
+				"Buy&Sell",
+				"US Only",
+				"Beginner"
+			]
+		},
+		{
 			"title": "OBW",
 			"description": "NBD’s very slick noncustodial wallet.",
-			"image": "https://cdn.zebedee.io/an/m/obw.png",
-			"url": "https://andrerfneves.github.io/milou-public/img/obw.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/obw.png",
+			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw&hl=en_US&gl=US",
 			"buttonText": "Download",
 			"tags": [
 				"Non-Custodial",
@@ -32,35 +58,6 @@
 				"Onchain",
 				"Android",
 				"Expert"
-			]
-		},
-		{
-			"title": "Breez",
-			"description": "The noncustodial wallet for everyone.",
-			"image": "https://andrerfneves.github.io/milou-public/img/breez.png",
-			"url": "https://breez.technology/",
-			"buttonText": "Download",
-			"tags": [
-				"Non-Custodial",
-				"PointOfSale",
-				"Podcasts",
-				"Intermediate"
-			]
-		},
-		{
-			"title": "Cash App",
-			"description": "Beginner-friendly custodial lightning wallet.",
-			"image": "https://andrerfneves.github.io/milou-public/img/cashapp.png",
-			"url": "https://cash.app/app/QVNBFMP",
-			"buttonText": "Download",
-			"tags": [
-				"Custodial",
-				"Sleek UI",
-				"LNURL",
-				"Onchain",
-				"Buy&Sell",
-				"US Only",
-				"Beginner"
 			]
 		}
 	],
@@ -85,10 +82,10 @@
 		},
 		{
 			"title": "Slice",
-			"description": "Earn Bitcoin for browsing.",
+			"description": "You browse, Slice pays you Bitcoin!",
 			"image": "https://andrerfneves.github.io/milou-public/img/slice.png",
-			"url": "http://slice.it/w",
-			"buttonText": "Website",
+			"url": "https://addslice.com/",
+			"buttonText": "Open Website",
 			"tags": [
 				"Non-Custodial",
 				"LN Address",
