@@ -195,7 +195,7 @@
 		},
 		{
 			"title": "TABConf",
-			"description": "The Technical Bitcoin Conference of the Year.",
+			"description": "The Technical Bitcoin Conference of the Year. Sept 6-9",
 			"image": "https://andrerfneves.github.io/milou-public/img/tabconf.png",
 			"url": "https://2023.tabconf.com",
 			"buttonText": "Website",
@@ -208,15 +208,15 @@
 			]
 		},
 		{
-			"title": "Bitcoin++",
-			"description": "A dev conf in Austin highlighting layer-2 tech.",
-			"image": "https://andrerfneves.github.io/milou-public/img/btcplusplus.png",
-			"url": "https://btcplusplus.dev/",
+			"title": "The Power of Lightning Summit",
+			"description": "An intimate two-day summit focused on bitcoin and lightning.",
+			"image": "https://andrerfneves.github.io/milou-public/img/lightningsummit.png",
+			"url": "https://www.meetup.com/bitcoinpark/events/291052525/",
 			"buttonText": "Website",
 			"tags": [
-				"Technical",
+				"Lightning",
 				"IRL",
-				"Intermediate"			
+				"Enterprise"			
 			]
 		},
 		{
@@ -237,7 +237,7 @@
 			"description": "Play games, earn bitcoin. ‘Nuff said."
 		},
 		{
-			"title": "Bitcoin miner",
+			"title": "Bitcoin Miner",
 			"description": "Brianna's favorite game. Just Download it.",
 			"image": "https://andrerfneves.github.io/milou-public/img/bitcoinminer.png",
 			"url": "https://apps.apple.com/us/app/bitcoin-miner-idle-tycoon/id1413770650",
@@ -266,7 +266,7 @@
 			"description": "Become the Swing King.",
 			"image": "https://andrerfneves.github.io/milou-public/img/sarutobi.png",
 			"url": "https://apps.apple.com/us/app/sarutobi-make-the-monkey-fly/id1527644721",
-			"buttonText": "Downloard",
+			"buttonText": "Download",
 			"tags": [
 				"Android",
 				"iOS",
@@ -278,7 +278,7 @@
 			"description": "Bitcoin F2W Bubble Shooter.",
 			"image": "https://andrerfneves.github.io/milou-public/img/bitcoinbay.png",
 			"url": "https://apps.apple.com/us/app/bitcoin-bay-bitcoin-bubbles/id1586949384",
-			"buttonText": "Downloard",
+			"buttonText": "Download",
 			"tags": [
 				"Android",
 				"iOS",
@@ -286,11 +286,11 @@
 			]
 		},
 		{
-			"title": "Bitcoin Solitate",
+			"title": "Bitcoin Solitaire",
 			"description": "Play Solitaire, Earn BTC.",
 			"image": "https://andrerfneves.github.io/milou-public/img/solitaire.png",
 			"url": "https://apps.apple.com/us/app/bitcoin-solitaire/id1522782252",
-			"buttonText": "Downloard",
+			"buttonText": "Download",
 			"tags": [
 				"Android",
 				"iOS",
