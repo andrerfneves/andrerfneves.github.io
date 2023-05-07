@@ -2,7 +2,7 @@
     {
         "title": "Damus",
         "description": "Nostr client for iOS featuring friendly and modern UX flows.",
-        "image": "https://cdn.zebedee.io/an/m/damus.png",
+        "image": "image": "https://andrerfneves.github.io/milou-public/img/damus.png",
         "url": "https://testflight.apple.com/join/CLwjLxWl",
         "buttonText": "Download",
         "tags": [
@@ -15,9 +15,25 @@
         ]
     },
     {
+        "title": "Primal",
+        "description": "Lightning fast Nostr web client with customizable feeds and filters.",
+        "image": "https://andrerfneves.github.io/milou-public/img/primal.png",
+        "url": "https://testflight.apple.com/join/CLwjLxWl",
+        "buttonText": "Download",
+        "tags": [
+            "Beginner",
+            "Web",
+            "Super Fast",
+            "Analytics",
+            "Profiles",
+            "Friendly UX",
+            "Popular"
+        ]
+    },
+    {
         "title": "Snort Social",
         "description": "Web-based Nostr client with dark mode and friendly UX flows.",
-        "image": "https://cdn.zebedee.io/an/m/snort.png",
+        "image": "image": "https://andrerfneves.github.io/milou-public/img/snort.png",
         "url": "https://snort.social",
         "buttonText": "Open",
         "tags": [
@@ -29,7 +45,7 @@
     {
         "title": "Iris",
         "description": "Web-based Nostr client for beginners.",
-        "image": "https://cdn.zebedee.io/an/m/iris.png",
+        "image": "image": "https://andrerfneves.github.io/milou-public/img/iris.png",
         "url": "https://iris.to",
         "buttonText": "Open",
         "tags": [
@@ -41,7 +57,7 @@
     {
         "title": "Coracle",
         "description": "Intermediate-level Web-based Nostr client",
-        "image": "https://cdn.zebedee.io/an/m/coracle.png",
+        "image": "image": "https://andrerfneves.github.io/milou-public/img/coracle.png",
         "url": "https://coracle.social",
         "buttonText": "Open",
         "tags": [
@@ -55,7 +71,7 @@
     {
         "title": "Nostr Console",
         "description": "CLI-based Nostr client for your command line.",
-        "image": "https://cdn.zebedee.io/an/m/nostr-console.png",
+        "image": "image": "https://andrerfneves.github.io/milou-public/img/nostr-console.png",
         "url": "https://github.com/vishalxl/nostr_console",
         "buttonText": "Open",
         "tags": [
@@ -68,7 +84,7 @@
     {
         "title": "Blockcore Notes",
         "description": "Simple Web-based Nostr client.",
-        "image": "https://cdn.zebedee.io/an/m/blockcore.png",
+        "image": "image": "https://andrerfneves.github.io/milou-public/img/blockcore.png",
         "url": "http://notes.blockcore.net/",
         "buttonText": "Download",
         "tags": [
