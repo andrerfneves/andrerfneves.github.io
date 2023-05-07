@@ -24,7 +24,7 @@
 			"title": "OBW",
 			"description": "NBD’s very slick noncustodial wallet.",
 			"image": "https://cdn.zebedee.io/an/m/obw.png",
-			"url": "https://play.google.com/store/apps/details?id=wtf.nbd.obw",
+			"url": "https://andrerfneves.github.io/milou-public/img/obw.png",
 			"buttonText": "Download",
 			"tags": [
 				"Non-Custodial",
@@ -37,7 +37,7 @@
 		{
 			"title": "Breez",
 			"description": "The noncustodial wallet for everyone.",
-			"image": "https://cdn.zebedee.io/an/m/obw.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/breez.png",
 			"url": "https://breez.technology/",
 			"buttonText": "Download",
 			"tags": [
@@ -50,7 +50,7 @@
 		{
 			"title": "Cash App",
 			"description": "Beginner-friendly custodial lightning wallet.",
-			"image": "https://cdn.zebedee.io/an/m/cashapp.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/cashapp.png",
 			"url": "https://cash.app/app/QVNBFMP",
 			"buttonText": "Download",
 			"tags": [
@@ -71,7 +71,7 @@
 		{
 			"title": "Fountain",
 			"description": "The Podcast app that pays you BTC.",
-			"image": "https://cdn.zebedee.io/an/m/fountain.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/fountain.png",
 			"url": "https://apps.apple.com/gb/app/fountain-podcasts/id1576394424",
 			"buttonText": "Download",
 			"tags": [
@@ -86,7 +86,7 @@
 		{
 			"title": "Slice",
 			"description": "Earn Bitcoin for browsing.",
-			"image": "https://cdn.zebedee.io/an/m/slice.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/slice.png",
 			"url": "http://slice.it/w",
 			"buttonText": "Website",
 			"tags": [
@@ -99,7 +99,7 @@
 		{
 			"title": "CardCoins",
 			"description": "Buy Bitcoin with Cash.",
-			"image": "https://cdn.zebedee.io/an/m/cardcoins.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/cardcoins.png",
 			"url": "https://www.cardcoins.co/",
 			"buttonText": "Website",
 			"tags": [
@@ -112,7 +112,7 @@
 		{
 			"title": "Stacker News",
 			"description": "Like Reddit, but earn Bitcoin.",
-			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/stackernews.png",
 			"url": "https://stacker.news/",
 			"buttonText": "Website",
 			"tags": [
@@ -126,7 +126,7 @@
 		{
 			"title": "Bitrefill",
 			"description": "Buy gift cards and phone top ups over lightning.",
-			"image": "https://cdn.zebedee.io/an/m/bitrefill.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/bitrefill.png",
 			"url": "https://www.bitrefill.com/signup?code=ej62wyiu",
 			"buttonText": "Download",
 			"tags": [
@@ -144,7 +144,7 @@
 		{
 			"title": "Learn Me A Bitcoin",
 			"description": "Start here if you know nothing about Bitcoin.",
-			"image": "https://cdn.zebedee.io/an/m/noah.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/bitcoin.png",
 			"url": "https://learnmeabitcoin.com/",
 			"buttonText": "Website",
 			"tags": [
@@ -154,7 +154,7 @@
 		{
 			"title": "Emeralize",
 			"description": "Where Creators Earn and Where Learning is Rewarded.",
-			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/emeralize.png",
 			"url": "https://emeralize.com/",
 			"buttonText": "Website",
 			"tags": [
@@ -165,7 +165,7 @@
 		{
 			"title": "Lightsats",
 			"description": "Onboard n00bs in 2 secs.",
-			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/lightsats.png",
 			"url": "https://lightsats.com/",
 			"buttonText": "Website",
 			"tags": [
@@ -177,7 +177,7 @@
 		{
 			"title": "Base58",
 			"description": "Developer-oriented Bitcoin Fundamentals Courses.",
-			"image": "https://cdn.zebedee.io/an/m/stackernews.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/base58.png",
 			"url": "https://https://www.base58.info/",
 			"buttonText": "Website",
 			"tags": [
@@ -196,7 +196,7 @@
 		{
 			"title": "TABConf",
 			"description": "The Technical Bitcoin Conference of the Year.",
-			"image": "https://cdn.zebedee.io/an/m/tabconf.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/tabconf.png",
 			"url": "https://2023.tabconf.com",
 			"buttonText": "Website",
 			"tags": [
@@ -210,7 +210,7 @@
 		{
 			"title": "Bitcoin++",
 			"description": "Beginner-friendly custodial lightning wallet.",
-			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/btcplusplus.png",
 			"url": "https://btcplusplus.dev/",
 			"buttonText": "Website",
 			"tags": [
@@ -222,7 +222,7 @@
 		{
 			"title": "SATS Conf",
 			"description": "The first and only Bitcoin conf in Brazil.",
-			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/satsconf.png",
 			"url": "https://satsconf.com.br/",
 			"buttonText": "Website",
 			"tags": [
@@ -239,7 +239,7 @@
 		{
 			"title": "Bitcoin miner",
 			"description": "Brianna's favorite game. Just Download it.",
-			"image": "https://cdn.zebedee.io/an/m/tabconf.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/bitcoinminer.png",
 			"url": "https://apps.apple.com/us/app/bitcoin-miner-idle-tycoon/id1413770650",
 			"buttonText": "Download",
 			"tags": [
@@ -252,7 +252,7 @@
 		{
 			"title": "Bitcoin Bounce",
 			"description": "Bounce your Bitcoin along the Blockchain.",
-			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/bitcoinbounce.png",
 			"url": "https://apps.apple.com/us/app/bitcoin-bounce/id1487339632",
 			"buttonText": "Download",
 			"tags": [
@@ -264,7 +264,7 @@
 		{
 			"title": "Sarutobi",
 			"description": "Become the Swing King",
-			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/sarutobi.png",
 			"url": "https://apps.apple.com/us/app/sarutobi-make-the-monkey-fly/id1527644721",
 			"buttonText": "Downloard",
 			"tags": [
@@ -276,7 +276,7 @@
 		{
 			"title": "Bitcoin Bay",
 			"description": "Bitcoin F2W Bubble Shooter.",
-			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/bitcoinbay.png",
 			"url": "https://apps.apple.com/us/app/bitcoin-bay-bitcoin-bubbles/id1586949384",
 			"buttonText": "Downloard",
 			"tags": [
@@ -288,7 +288,7 @@
 		{
 			"title": "Bitcoin Solitate",
 			"description": "Play Solitaire, Earn BTC.",
-			"image": "https://cdn.zebedee.io/an/m/btcplusplus.png",
+			"image": "https://andrerfneves.github.io/milou-public/img/bitcoinsolitaire.png",
 			"url": "https://apps.apple.com/us/app/bitcoin-solitaire/id1522782252",
 			"buttonText": "Downloard",
 			"tags": [
