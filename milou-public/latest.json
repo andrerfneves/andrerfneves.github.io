@@ -8,19 +8,19 @@
 				"rocket"
 			],
 			"url": "https://shop.milou.lol/",
-			"timestamp": "2023-05-6T18:00:00Z",
+			"timestamp": "2023-05-06T18:00:00Z",
 			"style": "primary"
 		},
 		{
-			"title": "TABConf 2023 is still only $121",
+			"title": "TABConf 2023 is still only $121!",
 			"emoji": [
-				"money bag",
-				"laptop",
-				"zap",
+				"fire",
+				"moneybag",
+				"computer",
 				"fire"
 			],
 			"url": "https://2023.tabconf.com",
-			"timestamp": "2023-05-6T08:00:00Z",
+			"timestamp": "2023-05-06T08:00:00Z",
 			"style": "secondary"
 		},
 		{
@@ -36,15 +36,16 @@
 			"style": "tertiary"
 		},
 		{
-			"title": "OpenSats Receives Additional Funding of $10m",
+			"title": "OpenSats Receives $10m!",
 			"emoji": [
-				"money bag",
-				"zap",
-				"money bag",
-				"zap"
+				"moneybag",
+				"moneybag",
+				"moneybag",
+				"moneybag"
 			],
 			"url": "https://opensats.org/blog",
 			"timestamp": "2023-05-04T08:49:00Z",
-			"style": "secondary"		}
+			"style": "secondary"
+		}
 	]
 }
