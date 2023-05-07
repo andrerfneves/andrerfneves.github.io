@@ -29,6 +29,18 @@
         ]
     },
     {
+        "title": "Plebstr",
+        "description": "Friendly Nostr client on iOS.",
+        "image": "https://andrerfneves.github.io/milou-public/img/plebstr.png",
+        "url": "https://plebstr.com/",
+        "buttonText": "Download",
+        "tags": [
+            "Beginner",
+            "iOS",
+            "Friendly UX"
+        ]
+    },
+    {
         "title": "Snort Social",
         "description": "Web-based Nostr client with dark mode and friendly UX flows.",
         "image": "https://andrerfneves.github.io/milou-public/img/snort.png",
@@ -37,6 +49,18 @@
         "tags": [
             "Web",
             "Profiles",
+            "Friendly UX"
+        ]
+    },
+    {
+        "title": "Amethyst",
+        "description": "Nostr Client for Android.",
+        "image": "https://andrerfneves.github.io/milou-public/img/amethyst.png",
+        "url": "https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en_US&gl=US",
+        "buttonText": "Open",
+        "tags": [
+            "Android",
+            "Beginner",
             "Friendly UX"
         ]
     },
