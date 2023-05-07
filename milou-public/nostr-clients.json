@@ -18,8 +18,8 @@
         "title": "Primal",
         "description": "Lightning fast Nostr web client with customizable feeds and filters.",
         "image": "https://andrerfneves.github.io/milou-public/img/primal.png",
-        "url": "https://testflight.apple.com/join/CLwjLxWl",
-        "buttonText": "Download",
+        "url": "https://primal.net/home",
+        "buttonText": "Open",
         "tags": [
             "Beginner",
             "Web",
