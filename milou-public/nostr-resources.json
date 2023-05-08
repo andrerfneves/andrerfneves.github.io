@@ -17,12 +17,12 @@
 			"description": "How-tos and quickstart articles, websites, and videos to get you going on your Nostr journey.\n"
 		},
 		{
-			"title": "Getting Started",
-			"description": "Great summary of all the pieces of the Nostr puzzle.",
-			"url": "https://nostr.com"
+			"title": "Nosta.me",
+			"description": "The simplest and fastest way to create a Nostr account.",
+			"url": "https://nosta.me"
 		},
 		{
-			"title": "Nostr.HOW",
+			"title": "Nostr In Depth",
 			"description": "Walkthrough of the various entities of the Nostr protocol.",
 			"url": "https://nostr.how"
 		},
