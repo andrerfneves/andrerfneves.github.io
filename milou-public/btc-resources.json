@@ -192,7 +192,7 @@
 		},
 		{
 			"title": "TABConf",
-			"description": "The Technical Bitcoin Conference of the Year. Sept 6-9",
+			"description": "The Technical Bitcoin Conference of the Year. September 6-9.",
 			"image": "https://andrerfneves.github.io/milou-public/img/tabconf.png",
 			"url": "https://2023.tabconf.com",
 			"buttonText": "Website",
@@ -206,7 +206,7 @@
 		},
 		{
 			"title": "The Power of Lightning Summit",
-			"description": "An intimate two-day summit focused on bitcoin and lightning.",
+			"description": "An intimate two-day summit focused on bitcoin and lightning. July 13-14.",
 			"image": "https://andrerfneves.github.io/milou-public/img/lightningsummit.png",
 			"url": "https://www.meetup.com/bitcoinpark/events/291052525/",
 			"buttonText": "Website",
