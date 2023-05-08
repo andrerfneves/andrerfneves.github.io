@@ -17,38 +17,33 @@
 			"description": "How-tos and quickstart articles, websites, and videos to get you going on your Nostr journey.\n"
 		},
 		{
-			"title": "UseNostr Getting Started",
-			"description": "Walkthrough of the various entities of the Nostr protocol.\n\nBy Pluja",
-			"url": "https://usenostr.org"
+			"title": "Getting Started",
+			"description": "Great summary of all the pieces of the Nostr puzzle.",
+			"url": "https://nostr.com"
 		},
 		{
-			"title": "Basic Vision for Nostr",
-			"description": "Technical walkthrough of Nostr events and signatures, outlining the vision of the protocol long-term.\n\nBy @rajarshimaitra",
-			"url": "https://github.com/rajarshimaitra/rust-nostr/blob/main/VISION.md"
-		},
-		{
-			"title": "Set up a Nostr Relay in under 5 minutes",
-			"description": "A quick start guide for those that want to run a Nostr relay.\n\nBy André Neves",
-			"url": "https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under"
-		},
-		{
-			"title": "Run a Rust-based Nostr Relay with Docker",
-			"description": "Quick CLI commands to spin up a Docker-based Nostr relay.\n\nBy Melvin Carvalho",
-			"url": "https://twitter.com/melvincarvalho/status/1488230320063328260"
-		},
-		{
-			"title": "Nostr Workshop with Super Testnet",
-			"description": "In-depth video walkthrough of all of Nostr and the many moving parts of the protocol.\n\nBy @SuperTestnet",
-			"url": "https://www.youtube.com/watch?v=HbicnlCXg_Y"
+			"title": "Nostr.HOW",
+			"description": "Walkthrough of the various entities of the Nostr protocol.",
+			"url": "https://nostr.how"
 		},
 		{
 			"title": "Awesome Nostr",
 			"description": "A curated list of awesome Nostr projects and resources.\n\nBy @aljazceru",
 			"url": "https://nostr.net"
+		},
+		{
+			"title": "Technical Vision for Nostr",
+			"description": "Technical walkthrough of Nostr events and signatures, outlining the vision of the protocol long-term.\n\nBy @rajarshimaitra",
+			"url": "https://github.com/rajarshimaitra/rust-nostr/blob/main/VISION.md"
 		}
 	],
 	"podcasts": [{
 			"description": "Nostr protocol discussions in the wild! Get a quick dosage of what one can build with Nostr, or get latest updates on new tools or release.\n"
+		},
+		{
+			"title": "Nostrovia",
+			"description": "All the new Nostr projects, all the new cool stuff, all the new NIPs, it’s all here. Once a week.",
+			"url": "https://nostrovia.org/"
 		},
 		{
 			"title": "Tidbits 769285",
@@ -75,14 +70,19 @@
 			"url": "https://github.com/Cameri/nostream"
 		},
 		{
-			"title": "relayer",
-			"description": "Nostr Relay Framework -- use it to implement your own custom relay or use predefined settings.\n\nBy @fiatjaf",
-			"url": "https://github.com/fiatjaf/relayer"
+			"title": "strfry",
+			"description": "C++ based Nostr relay with focus on performance and data management.\n\nBy @hoytech",
+			"url": "https://github.com/hoytech/strfry"
 		},
 		{
 			"title": "nostr-rs-relay",
 			"description": "Rust-based Nostr relay currently supporting the entire relay protocol, and persisting data with SQLite.\n\nBy @gheartsfield",
 			"url": "https://sr.ht/~gheartsfield/nostr-rs-relay/"
+		},
+		{
+			"title": "relayer",
+			"description": "Nostr Relay Framework -- use it to implement your own custom relay or use predefined settings.\n\nBy @fiatjaf",
+			"url": "https://github.com/fiatjaf/relayer"
 		}
 	],
 	"libraries": [{
@@ -102,20 +102,55 @@
 			"title": "nostr-deno",
 			"description": "Nostr protocol client library for Deno runtime.\n\nBy @KiPSOFT",
 			"url": "https://github.com/KiPSOFT/nostr-deno"
+		},
+		{
+			"title": "nostr-army-knife",
+			"description": "Nostr protocol client library for Deno runtime.\n\nBy @KiPSOFT",
+			"url": "https://nak.nostr.com/"
+		},
+		{
+			"title": "nostr-stuff",
+			"description": "Nostr protocol client library for Deno runtime.\n\nBy @KiPSOFT",
+			"url": "https://nostrstuff.com/"
 		}
 	],
-	"Under Development (Caution / Beware)": [{
-			"description": "THESE ARE NOT PRODUCTION READY!\n\nIf you're a reckless Nostr user, give these WIP projects a try! Definitely not for the faint of heart."
+	"misc": [{
+			"description": "Links, guides, blog posts, you name it! Things that every Nostr-user could read up and become familiar with.\n"
 		},
 		{
-			"title": "Nosky",
-			"description": "A native Android client for Nostr.\n\nBy @KotlinGeekDev",
-			"url": "https://github.com/KotlinGeekDev/Nosky"
+			"title": "@fiatjaf's take on Nostr content discovery",
+			"description": "A vision for content discovery and relay usage for basic social-networking in Nostr.\n\nBy @fiatjaf",
+			"url": "https://fiatjaf.com/3f106d31.html"
 		},
 		{
-			"title": "Bija",
-			"description": "Python Nostr client with backend that runs on a local flask server, and front end in your browser.\n\nBy @BrightonBTC",
-			"url": "https://github.com/BrightonBTC/bija"
+			"title": "Why Nostr Matters",
+			"description": "How important is a truly decentralized social media protocol?.\n\nBy @lopp",
+			"url": "https://blog.lopp.net/why-nostr-matters/"
+		},
+		{
+			"title": "Set up a Paid Nostr Relay with ZEBEDEE API",
+			"description": "Quickest guide to set up a Paid Nostr Relay using the ZEBEDEE API.\n\nBy @andreneves",
+			"url": "https://andreneves.xyz/p/how-to-setup-a-paid-nostr-relay"
+		},
+		{
+			"title": "The Rise of Paid Nostr Relays",
+			"description": "How paid relays became the norm and how ZBD helped enable this future.\n\nBy @andreneves",
+			"url": "https://andreneves.xyz/p/the-rise-of-paid-nostr-relays"
+		},
+		{
+			"title": "Set up a Nostr Relay in under 5 minutes",
+			"description": "A quick start guide for those that want to run a Nostr relay.\n\nBy @andreneves",
+			"url": "https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under"
+		},
+		{
+			"title": "Run a Rust-based Nostr Relay with Docker",
+			"description": "Quick CLI commands to spin up a Docker-based Nostr relay.\n\nBy @melvincarvalho",
+			"url": "https://twitter.com/melvincarvalho/status/1488230320063328260"
+		},
+		{
+			"title": "Nostr Workshop with Super Testnet",
+			"description": "In-depth video walkthrough of all of Nostr and the many moving parts of the protocol.\n\nBy @SuperTestnet",
+			"url": "https://www.youtube.com/watch?v=HbicnlCXg_Y"
 		}
 	]
 }
