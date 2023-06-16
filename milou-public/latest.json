@@ -1,14 +1,26 @@
 {
 	"latest": [{
-			"title": "ZEBEDEE Releases Lightning API! ",
+			"title": "Forbes: How to Earn Bitcoin",
 			"emoji": [
 				"zap",
-				"rocket",
 				"zap",
-				"rocket"
+				"zap",
+				"zap"
 			],
-			"url": "https://twitter.com/zebedeeio/status/1658095849170149377",
-			"timestamp": "2023-05-15T07:00:00Z",
+			"url": "https://www.forbes.com/sites/briannahonkawadestries/2023/06/15/how-to-earn-bitcoin-and-join-the-creator-economy-with-nostr/?sh=6f6c96c41fec",
+			"timestamp": "2023-06-15T07:00:00Z",
+			"style": "primary"
+		},
+		{
+			"title": "ZBD App Launches Alpha Waitlist!",
+			"emoji": [
+				"fire",
+				"fire",
+				"fire",
+				"fire"
+			],
+			"url": "https://decrypt.co/143776/you-can-earn-bitcoin-for-using-social-media-zebedee-app/",
+			"timestamp": "2023-06-08T07:00:00Z",
 			"style": "primary"
 		},
 		{
@@ -24,15 +36,15 @@
 			"style": "secondary"
 		},
 		{
-			"title": "Milou Labs website is now live!",
+			"title": "ZEBEDEE Releases Lightning API! ",
 			"emoji": [
+				"zap",
 				"rocket",
-				"rocket",
-				"rocket",
+				"zap",
 				"rocket"
 			],
-			"url": "https://milou.lol",
-			"timestamp": "2023-01-27T12:18:08Z",
+			"url": "https://twitter.com/zebedeeio/status/1658095849170149377",
+			"timestamp": "2023-05-15T07:00:00Z",
 			"style": "tertiary"
 		},
 		{
